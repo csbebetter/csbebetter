@@ -1,52 +1,36 @@
-## Hi there 👋 I’m **Sheng Cao**
+# Hi there 👋 I'm Sheng Cao
 
-🎓 **M.S. Student in Mechanical Engineering**
-📍 Huazhong University of Science and Technology (HUST), Wuhan, China
+🎓 M.S. Student in Mechanical Engineering  
+📍 Huazhong University of Science and Technology (HUST)
 
-I received my **B.S. degree in Mechanical Design, Manufacturing, and Automation** from **Huazhong University of Science and Technology (HUST)** in 2024.
-I am currently pursuing a **Master’s degree in Mechanical Engineering** at HUST.
+My research interests lie in:
 
-My current research interest focuses on **large-scale measurement**, including **precision measurement systems, point cloud processing, and engineering applications**.
+- Robotics Perception
+- Geometric Estimation
+- Multi-Sensor Fusion
+- 3D Spatial Understanding
 
----
+I enjoy building real robotic systems and exploring how perception, geometry, and sensing can be integrated into practical engineering applications.
 
-### 🔬 Research & Publications
-
-* **IEEE Author Profile**:
-  [https://ieeexplore.ieee.org/author/964799704923107](https://ieeexplore.ieee.org/author/964799704923107)
-* Research interests:
-
-  * Large-scale and high-precision measurement
-  * Point cloud registration and calibration
-  * Measurement systems and engineering optimization
+Currently working on:
+- Point cloud registration and reconstruction
+- Spatial sensing and calibration
+- Robotic perception in large-scale environments
 
 ---
 
-### 💻 Engineering & Technical Interests
+### 🛠 Tech Stack
 
-* Programming & Tools:
-
-  * C / C++, Qt, Linux
-  * ROS, Embedded Systems
-  * OpenCV / PCL
-* Other interests:
-
-  * Web and Android Development
-  * Mathematical Modeling
+`C++` `Qt` `Linux` `ROS` `OpenCV` `PCL`
 
 ---
 
-### ✏️ Blog & Contact
+### 🌐 Links
 
-* Blog (Record everything):
-  [https://www.cnblogs.com/litecdows/](https://www.cnblogs.com/litecdows/)
-* Email: [csbebetter@outlook.com](mailto:csbebetter@outlook.com)
-
----
-
-### 📊 GitHub
-
-* GitHub Stats:
-  [https://github.com/csbebetter](https://github.com/csbebetter)
+- Personal Website: https://shengcaotec.top
+- Google Scholar: https://scholar.google.com/citations?user=f88wUC8AAAAJ
+- IEEE Author Profile: https://ieeexplore.ieee.org/author/964799704923107
 
 ---
+
+> “There are always more solutions than problems.”
