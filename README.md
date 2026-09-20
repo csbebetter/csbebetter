@@ -23,7 +23,7 @@ Currently working on:
 
 ### 🛠 Tech Stack
 
-`C++` `Qt` `Linux` `ROS` `OpenCV` `PCL`
+`C++` `Python` `Qt` `Linux` `ROS` `OpenCV` `PCL`
 
 ---
 
