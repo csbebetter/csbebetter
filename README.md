@@ -1,21 +1,23 @@
 # Hi there 👋 I'm Sheng Cao
 
-🎓 M.S. Student in Mechanical Engineering  
+🎓 M.S. Student in Mechanical Engineering (2024–present)
 📍 Huazhong University of Science and Technology (HUST)
 
-My research interests lie in:
+My research interests include:
 
-- Robotics Perception
-- Geometric Estimation
-- Multi-Sensor Fusion
-- 3D Spatial Understanding
+* Robotic Perception
+* Geometric Estimation
+* Multi-Sensor Fusion
+* 3D Spatial Understanding
 
 I enjoy building real robotic systems and exploring how perception, geometry, and sensing can be integrated into practical engineering applications.
 
 Currently working on:
-- Point cloud registration and reconstruction
-- Spatial sensing and calibration
-- Robotic perception in large-scale environments
+
+* Long- and short-term object change detection in dynamic 3D scenes
+* Point cloud registration and reconstruction
+* Spatial sensing and calibration
+* Robotic perception in large-scale environments
 
 ---
 
@@ -27,9 +29,9 @@ Currently working on:
 
 ### 🌐 Links
 
-- Personal Website: https://shengcaotec.top
-- Google Scholar: https://scholar.google.com/citations?user=f88wUC8AAAAJ
-- IEEE Author Profile: https://ieeexplore.ieee.org/author/964799704923107
+* Homepage: https://shengcaotec.top
+* Google Scholar: https://scholar.google.com/citations?user=f88wUC8AAAAJ
+* IEEE Author Profile: https://ieeexplore.ieee.org/author/964799704923107
 
 ---
 
